@@ -1,2 +1,2 @@
 # basic_algebra
-working on this
+Implements basic algebraic operation on point, line and circle;
